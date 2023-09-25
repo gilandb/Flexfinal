@@ -1,9 +1,37 @@
-.flex-header1 {
+.fullpage {
  display: flex;
+ flex-direction: column;
 }
-.flex-header1 div {
 
-background: #1F2937;
-height: 300px;
-flex: 1;
+.fullpage div {
+
+
+font-display: #f9fafa;
+flex: 1 1 auto;
+
+}
+.header1 {
+
+    background: #1F2937;
+    height: 220px;
+}
+
+.body1 {
+    background-color: white;
+    height: 220px;
+}
+
+.body2  {
+    background-color: #E5E7EB;
+    height: 220px;
+}
+
+.body3  {
+    background-color: white;
+    height: 175px;
+}
+
+.footer1  {
+    background: #1F2937;
+    height: 50px;
 }
