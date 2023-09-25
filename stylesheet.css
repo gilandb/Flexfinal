@@ -1,0 +1,9 @@
+.flex-header1 {
+ display: flex;
+}
+.flex-header1 div {
+
+background: #1F2937;
+height: 300px;
+flex: 1;
+}
