@@ -4,34 +4,41 @@
 }
 
 .fullpage div {
-
-
-font-display: #f9fafa;
 flex: 1 1 auto;
 
 }
 .header1 {
-
+    color: #f9faf8;
     background: #1F2937;
     height: 220px;
+    flex: 1 1 auto;
 }
 
 .body1 {
     background-color: white;
     height: 220px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    flex: 1 1 auto;
 }
 
 .body2  {
     background-color: #E5E7EB;
     height: 220px;
+    flex: 1 1 auto;
 }
 
 .body3  {
     background-color: white;
     height: 175px;
+    flex: 1 1 auto;
 }
 
 .footer1  {
     background: #1F2937;
     height: 50px;
+    color: #f9faf8;
+    font-size: 36px;
+    flex: 1 1 auto;
 }
